@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T08:20:44Z" name="Default suite" finished-at="2024-03-20T08:20:50Z" duration-ms="6346">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T08:20:44Z" name="Default test" finished-at="2024-03-20T08:20:50Z" duration-ms="6346">
+      <class name="shoppersstack.api.RegisterShopper.ShopperProfileTest">
+        <test-method is-config="true" signature="payloadSetUp()[pri:0, instance:shoppersstack.api.RegisterShopper.ShopperProfileTest@5b1ebf56]" started-at="2024-03-20T08:20:44Z" name="payloadSetUp" finished-at="2024-03-20T08:20:44Z" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payloadSetUp -->
+        <test-method signature="registerShopper()[pri:1, instance:shoppersstack.api.RegisterShopper.ShopperProfileTest@5b1ebf56]" started-at="2024-03-20T08:20:44Z" name="registerShopper" finished-at="2024-03-20T08:20:47Z" duration-ms="3135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerShopper -->
+        <test-method signature="loginShopper()[pri:2, instance:shoppersstack.api.RegisterShopper.ShopperProfileTest@5b1ebf56]" started-at="2024-03-20T08:20:47Z" name="loginShopper" finished-at="2024-03-20T08:20:49Z" duration-ms="1606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginShopper -->
+        <test-method signature="findShopperDataByShopperID()[pri:3, instance:shoppersstack.api.RegisterShopper.ShopperProfileTest@5b1ebf56]" started-at="2024-03-20T08:20:49Z" name="findShopperDataByShopperID" finished-at="2024-03-20T08:20:50Z" duration-ms="1467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findShopperDataByShopperID -->
+      </class> <!-- shoppersstack.api.RegisterShopper.ShopperProfileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
